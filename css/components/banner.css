@@ -1,0 +1,15 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://i.redd.it/3iz65y2xj2h41.png");
+  background-size: cover;
+  padding: 200px;
+}
+
+.banner .container h1, h3.banner-header {
+  color: white;
+  text-shadow: 1px 3px 3px rgba(0,0,0,0.6);
+}
+
+.banner > .container > h3.banner-header {
+  font-weight: 400;
+  font-style: italic;
+}
